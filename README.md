@@ -1,2 +1,2 @@
 # O Zumbido
-O Zumbido. Poema feito em HTML e CSS.
+Poema feito em HTML e CSS.
